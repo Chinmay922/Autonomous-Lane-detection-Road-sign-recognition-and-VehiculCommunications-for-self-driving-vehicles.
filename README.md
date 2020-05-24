@@ -30,3 +30,11 @@ Communications - it is very important for self driving vehicles to communicate w
 Intutive HMI - this HMI will show the steering moment and road signs messages as an input to the vehicle and an information to the passengers. But, one of the major use of this would be displaying this messages through communications of V2X communications. V2X communication could be vehicle to vehicle, vehicle to infrastructure or vehicle to person. 
 
 For implementing these features we would be using ROS/MATLAB/Python whichever fits more convenient and less computationally expensive. for more help on working on these project there are many courses on Udemy, Udacity and Coursera but all working on different platforms and policies. 
+
+
+# Dependencies
+
+•	ROS kinectic/MATLAB/Python - MATLAB can not be found free but ROS kinect and Python are open source softwares.
+•	Microsoft Kinect and Kinect drivers - it is used for my project and any other camera with depth sensors and IMU can be utilized.
+•	Camera Calibration tool - We would be using MATLAB camera calibrartion tool but any other calibration tool can also be used.
+•	Sufficient data set for training the algorithm - there should be enough data images of the Road signs, environment pictures to implement Machine learning. 
