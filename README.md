@@ -3,7 +3,7 @@
 # Overview
 
 As I am an Automotive engineer working on autonomous vehicles, I would love to work on this project which may help in making self-driving features of vehicles more reliable and safe. The objective of this project is to design an algorithm for detecting lanes, calculating steering angle, and distance from other vehicles using a camera in a self-driving vehicle. The autonomous vehicle should also detect road traffic signs and act accordingly. Also, implementing an intuitive HMI to show the steering moment.
-The road sign recognition and autonomous lane recognition cab be run on two different computers or the same computers and data between the two programs will be communicated in real-time. In this project I will be collecting data by mounting a camera on a real vehicle and calculating all the above-mentioned parameters. 
+The road sign recognition and autonomous lane recognition cab be run on two different computers or the same computers and data between the two programs will be communicated in real-time. In this project I will be collecting data by mounting a Kinect camera on a real vehicle and calculating all the above-mentioned parameters and road images/video. 
 
 Calculating the distance between the near-by vehicles and using a Microsoft Kinect camera with IMU and depth sensor which helps to find out the distance from other vehicles will be a new addition to my previous project.
 An intuitive HMI will also be implemented which will show the road sign signals from one program to another and will also show the steering wheel movement in the display.
