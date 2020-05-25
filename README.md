@@ -36,6 +36,11 @@ For implementing these features we would be using ROS/MATLAB/Python whichever fi
 
 # References
 
+Work on similar project the links given below can be referred,
+1. Udacity/Self driving vehicles - https://udacity.com/self-driving-car
+2. Lane detection and Road sign recognition projects by Miguel Maestre - https://github.com/MichiMaestre
+3. Self driving car Lane detection by Kiril Cvetkov - https://github.com/kirilcvetkov92.
+
 # Dependencies
 
 •	ROS kinectic/MATLAB/Python - MATLAB can not be found free but ROS kinect and Python are open source softwares.
