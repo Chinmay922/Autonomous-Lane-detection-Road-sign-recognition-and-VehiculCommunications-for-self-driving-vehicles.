@@ -8,6 +8,7 @@ The road sign recognition and autonomous lane recognition cab be run on two diff
 Calculating the distance between the near-by vehicles and using a Microsoft Kinect camera with IMU and depth sensor which helps to find out the distance from other vehicles will be a new addition to my previous project.
 An intuitive HMI will also be implemented which will show the road sign signals from one program to another and will also show the steering wheel movement in the display.
 Carrying out this whole algorithm using MATLAB/ROS/Python.
+This project is based on an ideology towrads innovation in self driving vehicles and is an open source project. It would be an honour if anybody wants to contribute to this project and add more value to it. Although all the softwares used in this project would not be completely free such as MATLAB but the same program can also be made in Python/ROS which are open source and free of cost. Also some of the resources such as the Kinect camera used to capture video of the lane or the RC vehicles might not be available to everyone but it would be easy to simply use the video uploaded in this project for futher work.
 
 # Necessity
 
