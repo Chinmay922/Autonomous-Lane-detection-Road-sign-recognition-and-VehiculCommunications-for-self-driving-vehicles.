@@ -48,7 +48,7 @@ Work on similar project the links given below can be referred,
 •	Camera Calibration tool - We would be using MATLAB camera calibrartion tool but any other calibration tool can also be used.
 •	Sufficient data set for training the algorithm - there should be enough data images of the Road signs, environment pictures to implement Machine learning. 
 
-# Licence
+# License
 
   
 Copyright (C) 2020 Chinmay Rathod. 
